@@ -5,11 +5,11 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "Message mtu MTI Cactus on WhatsApp. https://wa.me/255653937247",
 // add your Session Id 
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
-BOT_NAME: process.env.BOT_NAME || "✦RHODVICKEZ MD✦",
+BOT_NAME: process.env.BOT_NAME || "Nasri mkele",
 // add bot namw here for menu
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -17,15 +17,15 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "254115408870",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "225653937247",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "✦RHODVICKEZ MD✦",
+OWNER_NAME: process.env.OWNER_NAME || "MTU MTI CACTUS",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ✦RHODVICKEZ MD✦*",
+DESCRIPTION: process.env.DESCRIPTION || "*© MTU MTI CACTUS*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.imgur.com/PEZ5QL2.jpeg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> ✦RHODVICKEZ MD✦ IS SPARKING ACTIVE AND ALIVE\n\n\nKEEP USING ✦RHODVICKEZ MD✦ FROM RHODVICK TECH INC⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> MTUMTICACTUS✦ IS SPARKING ACTIVE AND ALIVE\n\n\nKEEP USING ✦RHODVICKEZ MD✦ FROM RHODVICK TECH INC⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
@@ -37,7 +37,7 @@ AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "*🎉👀 Seen by ✦RHODVICKEZ MD✦ MD 🚀🔥*",
+AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "*🎉👀 Seen by mtu mti cactus  🚀🔥*",
 // set the auto reply massage on status reply    
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
